@@ -9,3 +9,6 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 	}
 	system.finalize();
 }
+
+
+// プルプルプルプルプルニャン！
