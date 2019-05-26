@@ -90,3 +90,6 @@ void Game_Draw() {
 	DrawString(0, 0, "ゲーム画面です。", GetColor(255, 255, 255));
 	DrawString(0, 20, "Escキーを押すとメニュー画面に戻ります。", GetColor(255, 255, 255));
 }
+
+
+//にゃんぱすぱすぱす
